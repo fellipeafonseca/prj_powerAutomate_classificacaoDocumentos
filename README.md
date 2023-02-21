@@ -10,7 +10,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/fellipeafonseca/README-template?style=for-the-badge)--->
 
 
-> Automação no Site da Americanas, coletando produtos e armazenando as informações de acordo com o preço.
+> Automação no ambiente de trabalho, classificando os documentos e organizando eles em pastas (Boleto, Danfe e Nota Fiscal)
 
 
 ## 💻 Pré-requisitos
@@ -18,13 +18,12 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
-* Studio 2022.12.0-beta.11471 - 12/20/2022 Community License
-* UIPath
+* Microsoft Power Automate
 
 
 ## Apresentação
 
-> Classificando os documentos de acordo com o seu conteúdo, e mandando e-mails para as respectivas áreas envolvidas:
+> Classificando os documentos de acordo com o seu conteúdo, salvando os arquivos em suas respectivas pastas e envio de e-mail quando uma exceção ocorrer:
 
 https://user-images.githubusercontent.com/47412575/220283013-a4d4d055-868c-4067-bb2f-2349e1356b32.mp4
 
