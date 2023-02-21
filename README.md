@@ -27,9 +27,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 https://user-images.githubusercontent.com/47412575/220283013-a4d4d055-868c-4067-bb2f-2349e1356b32.mp4
 
+<!---
 
-
-## Seja um dos contribuidores<br>
+## Seja um dos contribuidores<br>--->
 
 
 
