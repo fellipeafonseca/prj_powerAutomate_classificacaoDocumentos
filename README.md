@@ -28,6 +28,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Componentes utilizados:
 - Leitura de e Extração de PDF;
 - Tratamento de Exceção;
+- Leitura e gravação de arquivos;
 - Excel;
 - Leitura e Envio de E-mail.
 
