@@ -25,6 +25,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 > Classificando os documentos de acordo com o seu conteúdo, salvando os arquivos em suas respectivas pastas e envio de e-mail quando uma exceção ocorrer:
 
+Componentes utilizados:
+- Leitura de e Extração de PDF;
+- Tratamento de Exceção;
+- Excel;
+- Leitura e Envio de E-mail.
+
+
+
 https://user-images.githubusercontent.com/47412575/220283013-a4d4d055-868c-4067-bb2f-2349e1356b32.mp4
 
 <!---
